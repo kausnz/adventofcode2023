@@ -1,1 +1,30 @@
-# adventofcode2023
+# Advent of Code 2023
+
+This repo contains my answers for the Advent of Code 2023. 
+My programming language of choice is Python 3.
+
+* [Day 1 - day01.ipynb](day01.ipynb)
+* [Day 2 - day02.ipynb](day02.ipynb)
+* [Day 3 - day03.ipynb](day03.ipynb)
+* [Day 4 - day04.ipynb](day04.ipynb)
+* [Day 5 - day05.ipynb](day05.ipynb)
+* [Day 6 - day06.ipynb](day06.ipynb)
+* [Day 7 - day07.ipynb](day07.ipynb)
+* [Day 8 - day08.ipynb](day08.ipynb)
+* [Day 9 - day09.ipynb](day09.ipynb)
+* [Day 10 - day10.ipynb](day10.ipynb)
+* [Day 11 - day11.ipynb](day11.ipynb)
+* [Day 12 - day12.ipynb](day12.ipynb)
+* [Day 13 - day13.ipynb](day13.ipynb)
+* [Day 14 - day14.ipynb](day14.ipynb)
+* [Day 15 - day15.ipynb](day15.ipynb)
+* [Day 16 - day16.ipynb](day16.ipynb)
+* [Day 17 - day17.ipynb](day17.ipynb)
+* [Day 18 - day18.ipynb](day18.ipynb)
+* [Day 19 - day19.ipynb](day19.ipynb)
+* [Day 20 - day20.ipynb](day20.ipynb)
+* [Day 21 - day21.ipynb](day21.ipynb)
+* [Day 22 - day22.ipynb](day22.ipynb)
+* [Day 23 - day23.ipynb](day23.ipynb)
+* [Day 24 - day24.ipynb](day24.ipynb)
+* [Day 25 - day25.ipynb](day25.ipynb)
